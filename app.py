@@ -1,6 +1,3 @@
-
-
-
 from flask import Flask, render_template, request
 from implementation import svm_test, svm_train, svm_predict
 import numpy as np
